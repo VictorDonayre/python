@@ -88,4 +88,6 @@ def eliminar_a(palabra):
 palabra = str(input("Ingrese una palabra: "))
 resultado = eliminar_a(palabra)
 print("Palabra sin la letra a: ", resultado) 
-print("solucionado ALEX")
+print("solucionado ALEX ASKDJHASJKDHASJKDAHSKDASJHDAJKS ")
+print("solucionado ALEX ASKDJHASJKDHASJKDAHSKDASJHDAJKS ")
+print("solucionado ALEX ASKDJHASJKDHASJKDAHSKDASJHDAJKS ")
