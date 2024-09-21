@@ -39,7 +39,7 @@ for i in range(5):
 contador = 0
 while contador < 5:
   print(contador) 
-  contador += 1 
+  contador += 1  
 
 #Ejemplo de Iterador 
 class Contador:

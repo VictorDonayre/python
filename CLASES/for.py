@@ -65,4 +65,30 @@ print("La suma de los dígitos del numero es: ", suma_digitos)
 for i in range (1,11):
     cuadrado = i**2 
     print(f"El cuadrado de {i} es: {cuadrado}") 
- 
+
+#Lista 
+nombres = ["Juan","Ana","Julio"] 
+print("El tipo de nombre es: ", type(nombres)) 
+for nombre in nombres:
+    print("Buenos días", nombre) 
+
+#Tuple 
+nombres = ("Juan", "Ana", "Julio")
+print("El tipo de nombre es: ", type(nombres)) 
+for nombre in nombres:
+    print("Buenos días: ", nombre) 
+     
+
+#Set
+nombres ={"Juan","Ana","Julio"} 
+print("El tipo de nombre es: ", type(nombres)) 
+for nombre in nombres:
+    print("Buenos días: ", nombre) 
+
+#Diccionario 
+nombres ={"Juan": 1, "Ana":2, "Julio":3} 
+print("El tipo de nombre es: ", type(nombres)) 
+for nombre in nombres: 
+    print("Buenos días: ", nombre, nombres[nombre]) 
+     
+    
