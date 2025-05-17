@@ -1,9 +1,0 @@
-Mirá pá estoy apendiendo a programar en Python
-Este es mi primera vez sobreescribiendo un txtAgregando otro texto
- Agregando otro texto 
-
-Linea 1 agregada! 
-Linea 2 agregada! 
-Linea 3 agregada! 
-Linea 4 agregada! 
-Linea 5 agregada! 
